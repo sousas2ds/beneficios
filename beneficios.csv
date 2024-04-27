@@ -1,0 +1,71 @@
+Código,Grupo de Espécie,Descrição
+07,Aposentadoria por Idade,Aposentadoria por idade do trabalhador rural
+08,Aposentadoria por Idade,Aposentadoria por idade do empregador rural
+41,Aposentadoria por Idade,Aposentadoria por idade
+52,Aposentadoria por Idade,Aposentadoria por idade (Extinto Plano Básico)
+78,Aposentadoria por Idade,Aposentadoria por idade de ex-combatente marítimo (Lei nº 1.756/52)
+81,Aposentadoria por Idade,Aposentadoria por idade compulsória (Ex-SASSE)
+04,Aposentadoria por Invalidez,Aposentadoria por invalidez do trabalhador rural
+06,Aposentadoria por Invalidez,Aposentadoria por invalidez do empregador rural
+32,Aposentadoria por Invalidez,Aposentadoria por invalidez previdenciária
+33,Aposentadoria por Invalidez,Aposentadoria por invalidez de aeronauta
+34,Aposentadoria por Invalidez,Aposentadoria por invalidez de ex-combatente marítimo (Lei nº 1.756/52)
+51,Aposentadoria por Invalidez,Aposentadoria por invalidez (Extinto Plano Básico)
+83,Aposentadoria por Invalidez,Aposentadoria por invalidez (Ex-SASSE)
+42,Aposentadoria por Tempo de Contribuição,Aposentadoria por tempo de contribuição previdenciária
+43,Aposentadoria por Tempo de Contribuição,Aposentadoria por tempo de contribuição de ex-combatente
+44,Aposentadoria por Tempo de Contribuição,Aposentadoria por tempo de contribuição de aeronauta
+45,Aposentadoria por Tempo de Contribuição,Aposentadoria por tempo de contribuição de jornalista profissional
+46,Aposentadoria por Tempo de Contribuição,Aposentadoria por tempo de contribuição especial
+49,Aposentadoria por Tempo de Contribuição,Aposentadoria por tempo de contribuição ordinária
+57,Aposentadoria por Tempo de Contribuição,Aposentadoria por tempo de contribuição de professor (Emenda Const.18/81)
+72,Aposentadoria por Tempo de Contribuição,Apos. por tempo de contribuição de ex-combatente marítimo (Lei 1.756/52)
+82,Aposentadoria por Tempo de Contribuição,Aposentadoria por tempo de contribuição (Ex-SASSE)
+01,Pensão Por Morte,Pensão por morte do trabalhador rural
+03,Pensão Por Morte,Pensão por morte do empregador rural
+21,Pensão Por Morte,Pensão por morte previdenciária
+23,Pensão Por Morte,Pensão por morte de ex-combatente
+27,Pensão Por Morte,Pensão por morte de servidor público federal com dupla aposentadoria
+28,Pensão Por Morte,Pensão por morte do Regime Geral (Decreto nº 20.465/31)
+29,Pensão Por Morte,Pensão por morte de ex-combatente marítimo (Lei nº 1.756/52)
+55,Pensão Por Morte,Pensão por morte (Extinto Plano Básico)
+84,Pensão Por Morte,Pensão por morte (Ex-SASSE)
+13,Auxílios,Auxílio-doença do trabalhador rural
+15,Auxílios,Auxílio-reclusão do trabalhador rural
+25,Auxílios,Auxílio-reclusão
+31,Auxílios,Auxílio-doença previdenciário
+36,Auxílios,Auxílio Acidente
+50,Auxílios,Auxílio-doença  (Extinto Plano Básico)
+02,Benefícios Acidentários,Pensão por morte por acidente do trabalho do trabalhador rural
+05,Benefícios Acidentários,Aposentadoria por invalidez por acidente do trabalho do trabalhador Rural
+10,Benefícios Acidentários,Auxílio-doença por acidente do trabalho do trabalhador rural
+91,Benefícios Acidentários,Auxílio-doença por acidente do trabalho
+92,Benefícios Acidentários,Aposentadoria por invalidez por acidente do trabalho
+93,Benefícios Acidentários,Pensão por morte por acidente do trabalho
+94,Benefícios Acidentários,Auxílio-acidente por acidente do trabalho
+95,Benefícios Acidentários,Auxílio-suplementar por acidente do trabalho
+11,Benefícios Assistenciais,Renda mensal vitalícia por invalidez do trabalhador rural (Lei nº 6.179/74)
+12,Benefícios Assistenciais,Renda mensal vitalícia por idade do trabalhador rural (Lei nº 6.179/74)
+30,Benefícios Assistenciais,Renda mensal vitalícia por invalidez (Lei nº 6179/74)
+40,Benefícios Assistenciais,Renda mensal vitalícia por idade (Lei nº 6.179/74)
+85,Benefícios Assistenciais,Pensão mensal vitalícia do seringueiro (Lei nº 7.986/89)
+86,Benefícios Assistenciais,Pensão mensal vitalícia do dep.do seringueiro (Lei nº 7.986/89)
+87,Benefícios Assistenciais,Amparo assistencial ao portador de deficiência (LOAS)
+88,Benefícios Assistenciais,Amparo assistencial ao idoso (LOAS)
+47,Espécies Diversas,Abono de permanência em serviço 25%
+48,Espécies Diversas,Abono de permanência em serviço 20%
+68,Espécies Diversas,Pecúlio especial de aposentadoria
+79,Espécies Diversas,Abono de servidor aposentado pela autarquia empr.(Lei 1.756/52)
+80,Espécies Diversas,Salário-maternidade
+22,Encargos Previdenciários da União,Pensão por morte estatutária
+26,Encargos Previdenciários da União,Pensão Especial (Lei nº 593/48)
+37,Encargos Previdenciários da União,Aposentadoria de extranumerário da União
+38,Encargos Previdenciários da União,Aposentadoria da extinta CAPIN
+54,Encargos Previdenciários da União,Pensão especial vitalícia (Lei nº 9.793/99)
+56,Encargos Previdenciários da União,Pensão mensal vitalícia por síndrome de talidomida (Lei nº 7.070/82)
+58,Encargos Previdenciários da União,Aposentadoria excepcional do anistiado (Lei nº 6.683/79)
+59,Encargos Previdenciários da União,Pensão por morte excepcional do anistiado (Lei nº 6.683/79)
+60,Encargos Previdenciários da União,Pensão especial mensal vitalícia (Lei 10.923, de 24/07/2004)
+76,Encargos Previdenciários da União,Salário-família estatutário da RFFSA (Decreto-lei nº 956/69)
+89,Encargos Previdenciários da União,Pensão especial aos depedentes de vítimas fatais p/ contaminação na hemodiálise
+96,Encargos Previdenciários da União,Pensão especial às pessoas atingidas pela hanseníase (Lei nº 11.520/2007)
